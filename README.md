@@ -2,6 +2,10 @@
 
 ## 🚀 Achievements
 ```bash
+15-11-2026: Build an initial agent with Microsoft Copilot Studio
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/J8SGGDMT?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 14-11-2026: Create a machine ordering Power Apps canvas app - Online Workshop
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/J8S5UHBT?sharingId=A084FC7B1A2EEBBD
 ```
