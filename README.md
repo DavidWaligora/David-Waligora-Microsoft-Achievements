@@ -2,6 +2,10 @@
 
 ## 🚀 Achievements
 ```bash
+22-11-2026: Manage agents in Microsoft Copilot Studio
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/3286PS8H?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 22-11-2026: Create an agent with Microsoft Copilot Studio and Dataverse for Teams
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/973LQQDU?sharingId=A084FC7B1A2EEBBD
 ```
