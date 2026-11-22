@@ -2,6 +2,10 @@
 
 ## 🚀 Achievements
 ```bash
+22-11-2026: Manage topics in Microsoft Copilot Studio
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/E6429GEP?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 15-11-2026: Build an initial agent with Microsoft Copilot Studio
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/J8SGGDMT?sharingId=A084FC7B1A2EEBBD
 ```
